@@ -78,7 +78,7 @@ public class nQueens{
       else{
          System.out.println("Solution is not possible :(");
       }
-      // System.out.println(count);
+      
       
 
    }
